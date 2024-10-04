@@ -22,7 +22,6 @@ Template ini dibuat untuk menilai kemampuan teknis kandidat dalam mengembangkan 
    ```bash
    php artisan migrate
 
-
 ## Tugas
 1. Membuat fungsi create data movie baru di MovieController dengan nama fungsi create 
 2. Membuat fungsi delete data movie di MovieController dengan nama fungsi delete
