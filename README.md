@@ -23,7 +23,12 @@ Template ini dibuat untuk menilai kemampuan teknis kandidat dalam mengembangkan 
    php artisan migrate
 
 ## Tugas
-1. Membuat fungsi create data movie baru di MovieController dengan nama fungsi create 
-2. Membuat fungsi delete data movie di MovieController dengan nama fungsi delete
-3. Membuat fungsi update data movie di MovieController dengan nama fungsi update
-
+1. Membuat fungsi GET data movie di MovieController dengan nama fungsi get
+2. Membuat fungsi CREATE data movie baru di MovieController dengan nama fungsi create 
+3. Membuat fungsi DELETE data movie di MovieController dengan nama fungsi delete
+4. Membuat fungsi UPDATE data movie di MovieController dengan nama fungsi update
+5. Membuat API untuk fungsi GET dengan route GET /api/movie
+6. Membuat API untuk fungsi CREATE dengan route POST /api/movie
+7. Membuat API untuk fungsi UPDATE dengan route PATCH /api/movie
+8. Membuat API untuk fungsi DELETE dengan route DELETE /api/movie
+9. Membuat postman untuk 4 fungsi
