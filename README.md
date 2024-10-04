@@ -12,7 +12,7 @@ Template ini dibuat untuk menilai kemampuan teknis kandidat dalam mengembangkan 
 
 1. **Clone repository** ini ke dalam lingkungan pengembangan lokal Anda.
    ```bash
-   git clone https://github.com/your-repo/backend-recruitment-test-template.git
+   git clone https://github.com/talenavi/boilerplate-backend
    cd backend-recruitment-test-template
 2. setting env sesuai dengan database lokal
 2. run
