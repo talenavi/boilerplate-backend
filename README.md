@@ -14,3 +14,17 @@ Template ini dibuat untuk menilai kemampuan teknis kandidat dalam mengembangkan 
    ```bash
    git clone https://github.com/your-repo/backend-recruitment-test-template.git
    cd backend-recruitment-test-template
+2. setting env sesuai dengan database lokal
+2. run
+   ```bash
+   composer install
+4. run
+   ```bash
+   php artisan migrate
+
+
+## Tugas
+1. Membuat fungsi create data movie baru di MovieController dengan nama fungsi create 
+2. Membuat fungsi delete data movie di MovieController dengan nama fungsi delete
+3. Membuat fungsi update data movie di MovieController dengan nama fungsi update
+
